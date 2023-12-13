@@ -1,0 +1,40 @@
+toc2:
+  - title: Prequisites
+    subfolderitems:
+      - page: AGW
+        url: /docs/prerequisites/agw
+      - page: ORC8R
+        url: /docs/prerequisites/orc8r
+      - page: FEG
+        url: /docs/prerequisites/feg
+  - title: 4G
+    subfolderitems:
+      - page: Piece 1
+        url: /piece1.html
+      - page: Piece 2
+        url: /piece2.html
+      - page: Piece 3
+        url: /piece3.html
+        subsubfolderitems:
+          - page: Subpiece 1
+            url: /subpiece1.html
+          - page: Subpiece2
+            url: /subpiece2.html
+  - title: 5G
+    subfolderitems:
+      - page: AGW
+        url: /docs/5G/agw
+        subfoldertitle: Developer Guide
+        subsubfolderitems:
+          - page: Unit Testing
+            url: /subwidget1.html
+          - page: Architecture
+            url: /subwidget2.html
+          - page: Basic Configuration
+            url:
+          - page: Basic Registration Using Simulators
+            url:
+          - page: PDU Session
+            url:
+          - page: SUCI Profile
+            url:
