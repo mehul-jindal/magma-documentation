@@ -7,6 +7,10 @@ toc2:
         url: /docs/prerequisites/orc8r
       - page: FEG
         url: /docs/prerequisites/feg
+  - title: Features
+    subfolderitems:
+      - page: AGW
+        url: /docs/features/agw
   - title: 4G
     subfolderitems:
       - page: Piece 1
@@ -29,7 +33,7 @@ toc2:
           - page: Unit Testing
             url: /subwidget1.html
           - page: Architecture
-            url: /subwidget2.html
+            url: docs\DEVELOPER_GUIDE\ARCHITECTURE.md
           - page: Basic Configuration
             url:
           - page: Basic Registration Using Simulators
